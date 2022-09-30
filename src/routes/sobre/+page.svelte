@@ -22,9 +22,9 @@
 
         <p>Telefone +55: (081) 9-8292-6061</p>
         <p>E-mail: afonsoh.dev@gmail.com</p>
-        <a href="www.linkedin.com/in/afonsoh247/"
+        <a href="https://www.linkedin.com/in/afonsoh247/"
         >Linkedin</a>
-        <a href="github.com/Afonso247"
+        <a href="https://github.com/Afonso247/"
         >Github</a>
     </div>
 
