@@ -88,14 +88,14 @@
         <div class="skill-subcontainer">
             <h3>Banco de Dados</h3>
             <p>
-                Embora seja básico, meu conhecimento com o MySQL é o suficiente para se criar 
+                Embora seja básico, meu conhecimento com o <strong>MySQL</strong> é o suficiente para se criar 
                 um banco de dados funcional para um site.
             </p>
         </div>
         <div class="skill-subcontainer">
             <h3>Sistemas Operacionais</h3>
             <p>
-                Tenho experiência com o SO Windows, mas a minha atual preferência é o Linux, 
+                Tenho experiência com o SO <strong>Windows</strong>, mas a minha atual preferência é o <strong>Linux</strong>, 
                 por atender melhor as minhas necessidades como um usuário e programador. No 
                 momento, eu utilizo a versão mais recente do Ubuntu(22.04).
             </p>
