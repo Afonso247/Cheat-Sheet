@@ -31,7 +31,7 @@
     <div class="text-container">
         <h2>Meu nome é Afonso Henrique</h2>
 
-        <p> Sou um desenvolvedor novato que está em busca de entrar pro mercado 
+        <p> Sou um desenvolvedor novato que está em busca de ingressar pro mercado 
             de tecnologia com o intuito de trabalhar com web development e 
             aprimorar minhas habilidades de programação.
         </p>
@@ -53,10 +53,10 @@
         <p>
             A minha intenção ao entrar neste curso foi para <strong>aprofundar os meus 
             conhecimentos de TI em um ambiente acadêmico</strong>. E no momento em que a 
-            minha jornada atualmente está, eu já adquiri uma quantia considerável de 
-            experiência: Aprendi e dominei os fundamentos da programação, montei aplicativos 
+            minha jornada atualmente está, eu já adquiri um valor considerável de 
+            experiência. Aprendi e dominei os fundamentos da programação, montei aplicativos 
             web básicos e funcionais usando as principais linguagens de programação, e fui 
-            até <strong>monitor voluntário da disciplina Programação Imperativa</strong>, na 
+            <strong>monitor voluntário da disciplina Programação Imperativa</strong>, na 
             qual ensina sobre como programar em JavaScript.
         </p>
     </div>
