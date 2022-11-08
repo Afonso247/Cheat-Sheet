@@ -20,7 +20,7 @@
 </main>
 <footer>
     <h4>Criado por Afonso H.</h4>
-    <p>Github:<a href="https://github.com/Afonso247" 
+    <p>GitHub:<a href="https://github.com/Afonso247" 
                 style="text-decoration: none;font-weight: bold;" target="_blank"
                 >Afonso247</a></p>
 </footer>

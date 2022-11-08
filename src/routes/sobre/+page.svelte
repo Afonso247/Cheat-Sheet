@@ -9,23 +9,23 @@
     
     <div class="link-container">
         <p>Para acesso direto ao meu <strong>Curriculum Vitae</strong>, 
-            clique em um dos links abaixo:
+            clique no link abaixo:
         </p>
         <div class="links">
-            <a href="https://drive.google.com/file/d/1OKJGc_l1rvVFxiy-N9Cb4KabMPqbiMpG/view?usp=sharing" target="_blank"
+            <a href="https://drive.google.com/file/d/10X_cFDQmzWLRVoEYxifgMqXGFvSBF9--/view?usp=sharing" target="_blank"
             >Versão em Português-Brasileiro</a>
-            <a href="https://drive.google.com/file/d/1uDQ6avQPoSqS7Fj0vmB77ljW0bncnNDp/view?usp=sharing" target="_blank"
-            >Versão em Inglês</a>
+            <!-- <a href="https://drive.google.com/file/d/1uDQ6avQPoSqS7Fj0vmB77ljW0bncnNDp/view?usp=sharing" target="_blank"
+            >Versão em Inglês</a> -->
         </div>
 
         <h2>Entre em contato comigo</h2>
 
         <p>Telefone +55: (081) 9-8292-6061</p>
         <p>E-mail: afonsoh.dev@gmail.com</p>
-        <a href="www.linkedin.com/in/afonsoh247/"
-        >Linkedin</a>
-        <a href="github.com/Afonso247"
-        >Github</a>
+        <a href="https://www.linkedin.com/in/afonsoh247/" target="_blank"
+        >LinkedIn</a>
+        <a href="https://github.com/Afonso247" target="_blank"
+        >GitHub</a>
     </div>
 
     <div class="text-container">
@@ -80,24 +80,28 @@
             <h3>Back-End</h3>
             <p>
                 Atualmente eu tenho adquirido uma considerável experiência na linguagem de 
-                programação <strong>PHP</strong>, e também estou trabalhando em um projeto 
-                web, utilizando o <strong>Laravel - o Framework do PHP</strong>, junto com o 
-                <strong>Blade como template engine</strong>, o embutido do Framework. 
+                programação <strong>PHP</strong>, e também tenho trabalhado voluntariamente 
+                em um <a class="sp-link" href="https://github.com/Afonso247/Laravel-Auth">
+                projeto web</a> utilizando <strong>Laravel</strong>, o Framework do PHP, 
+                junto de ferramentas correlatas como <strong>Jetstream</strong>, <strong>
+                Blade</strong> & <strong>Livewire</strong>. Além disso, possuo conhecimento 
+                básico em <strong>Java</strong>.
             </p>
         </div>
         <div class="skill-subcontainer">
             <h3>Banco de Dados</h3>
             <p>
-                Embora seja básico, meu conhecimento com o MySQL é o suficiente para se criar 
-                um banco de dados funcional para um site.
+                Embora seja básico, meu conhecimento com o <strong>MySQL</strong> é o suficiente 
+                para se criar um banco de dados funcional para um site.
             </p>
         </div>
         <div class="skill-subcontainer">
             <h3>Sistemas Operacionais</h3>
             <p>
-                Tenho experiência com o SO Windows, mas a minha atual preferência é o Linux, 
-                por atender melhor as minhas necessidades como um usuário e programador. No 
-                momento, eu utilizo a versão mais recente do Ubuntu(22.04).
+                Tenho experiência com o SO <strong>Windows</strong>, mas a minha atual 
+                preferência é o <strong>Linux</strong>, por atender melhor as minhas 
+                necessidades como um usuário e programador. No momento, eu utilizo a versão 
+                mais recente do Ubuntu(22.04).
             </p>
         </div>
         <div class="skill-subcontainer">
@@ -138,6 +142,9 @@
     .links {
         margin-left: auto;
         margin-right: auto;
+    }
+    .sp-link {
+        margin: 0;
     }
     a {
         margin-left: 1rem;
