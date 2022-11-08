@@ -31,11 +31,11 @@
     <div class="text-container">
         <h2>Meu nome é Afonso Henrique</h2>
 
-        <p> Sou um desenvolvedor novato que está em busca de entrar pro mercado 
+        <p> Sou um desenvolvedor novato que está em busca de ingressar pro mercado 
             de tecnologia com o intuito de trabalhar com web development e 
             aprimorar minhas habilidades de programação.
         </p>
-        <p> Desde 2021, minha paixão por codar andou crescendo bastante com o passar dos 
+        <p> Desde 2021, a minha paixão por codar andou crescendo bastante com o passar dos 
             tempos. A ideia de você poder criar a sua própria linha/bloco de código, compilar 
             em um programa e então poder ver ele funcionando na fase de teste - é algo que 
             simplesmente me fascina.
@@ -56,7 +56,7 @@
             minha jornada atualmente está, eu já adquiri uma quantia considerável de 
             experiência: Aprendi e dominei os fundamentos da programação, montei aplicativos 
             web básicos e funcionais usando as principais linguagens de programação, e fui 
-            até <strong>monitor voluntário da disciplina Programação Imperativa</strong>, na 
+            <strong>monitor voluntário da disciplina Programação Imperativa</strong>, na 
             qual ensina sobre como programar em JavaScript.
         </p>
     </div>
@@ -72,8 +72,9 @@
             <h3>Front-End</h3>
             <p>
                 Possuo conhecimento nas três linguagens principais do desenvolvimento de 
-                Front-End: <strong>HTML5, CSS3 e JavaScript.</strong> Além disso, <strong>já 
-                trabalhei com o Framework: Svelte</strong>, especificamente o SvelteKit.
+                Front-End: <strong>HTML5, CSS3 e JavaScript.</strong> Além disso, já 
+                trabalhei com o <strong>Framework Svelte</strong>, especificamente o 
+                SvelteKit.
             </p>
         </div>
         <div class="skill-subcontainer">
