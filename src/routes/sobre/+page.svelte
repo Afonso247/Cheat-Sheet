@@ -31,7 +31,7 @@
     <div class="text-container">
         <h2>Meu nome é Afonso Henrique</h2>
 
-        <p> Sou um desenvolvedor novato que está em busca de ingressar pro mercado 
+        <p> Sou um desenvolvedor novato que está em busca de entrar pro mercado 
             de tecnologia com o intuito de trabalhar com web development e 
             aprimorar minhas habilidades de programação.
         </p>
@@ -53,10 +53,10 @@
         <p>
             A minha intenção ao entrar neste curso foi para <strong>aprofundar os meus 
             conhecimentos de TI em um ambiente acadêmico</strong>. E no momento em que a 
-            minha jornada atualmente está, eu já adquiri um valor considerável de 
-            experiência. Aprendi e dominei os fundamentos da programação, montei aplicativos 
+            minha jornada atualmente está, eu já adquiri uma quantia considerável de 
+            experiência: Aprendi e dominei os fundamentos da programação, montei aplicativos 
             web básicos e funcionais usando as principais linguagens de programação, e fui 
-            <strong>monitor voluntário da disciplina Programação Imperativa</strong>, na 
+            até <strong>monitor voluntário da disciplina Programação Imperativa</strong>, na 
             qual ensina sobre como programar em JavaScript.
         </p>
     </div>
@@ -91,17 +91,16 @@
         <div class="skill-subcontainer">
             <h3>Banco de Dados</h3>
             <p>
-                Embora seja básico, meu conhecimento com o <strong>MySQL</strong> é o suficiente 
-                para se criar um banco de dados funcional para um site.
+                Embora seja básico, meu conhecimento com o MySQL é o suficiente para se criar 
+                um banco de dados funcional para um site.
             </p>
         </div>
         <div class="skill-subcontainer">
             <h3>Sistemas Operacionais</h3>
             <p>
-                Tenho experiência com o SO <strong>Windows</strong>, mas a minha atual 
-                preferência é o <strong>Linux</strong>, por atender melhor as minhas 
-                necessidades como um usuário e programador. No momento, eu utilizo a versão 
-                mais recente do Ubuntu(22.04).
+                Tenho experiência com o SO Windows, mas a minha atual preferência é o Linux, 
+                por atender melhor as minhas necessidades como um usuário e programador. No 
+                momento, eu utilizo a versão mais recente do Ubuntu(22.04).
             </p>
         </div>
         <div class="skill-subcontainer">
