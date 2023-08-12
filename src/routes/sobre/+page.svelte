@@ -119,9 +119,9 @@
         <div class="skill-subcontainer">
             <h3>Outras Habilidades</h3>
             <p>
-                Possuo conhecimento no versionamento da <strong>linha de comando Git</strong>. 
-                Adicionalmente, tenho experiência em <strong>Virtualbox</strong>, para casos 
-                em que uma máquina virtual seja necessária.
+                Possuo conhecimento em <strong>Redes de Computadores</strong>, além do versionamento 
+                da <strong>linha de comando Git</strong>. Adicionalmente, tenho experiência em 
+                <strong>Virtualbox</strong>, para casos em que uma máquina virtual seja necessária.
             </p>
         </div>
     </div>
