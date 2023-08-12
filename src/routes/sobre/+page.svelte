@@ -48,7 +48,7 @@
         <p> No momento em que eu estou escrevendo isso, atualmente estudo no 
             <strong>Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco</strong>, 
             cursando o Tecnólogo <strong>Sistemas para Internet</strong> no 
-            Campus Igarassu, com a previsão de término do curso para Julho de 2024.
+            Campus Igarassu, com a previsão de término do curso para o segundo semestre de 2024.
         </p>
         <p>
             A minha intenção ao entrar neste curso foi para <strong>aprofundar os meus 
