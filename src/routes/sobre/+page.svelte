@@ -12,7 +12,7 @@
             clique no link abaixo:
         </p>
         <div class="links">
-            <a href="https://drive.google.com/file/d/1X0CYH2LkXPSopwCTennZtPrGsvdeoHAW/view?usp=drive_link" target="_blank"
+            <a href="https://docs.google.com/document/d/1dK-k6qRDbhfKtbJre4ut265vQ9Iwu0IENgZXC0H9Z5E/edit?usp=drive_link" target="_blank"
             >Versão em Português-Brasileiro</a>
             <!-- <a href="https://drive.google.com/file/d/1uDQ6avQPoSqS7Fj0vmB77ljW0bncnNDp/view?usp=sharing" target="_blank"
             >Versão em Inglês</a> -->
