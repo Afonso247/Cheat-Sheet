@@ -109,11 +109,9 @@
             <p>
                 Por me originar no Brasil, eu sou <strong>fluente/nativo</strong> em sua 
                 linguagem, que é o <strong>Português-Brasileiro</strong>. Já em 
-                <strong>Inglês</strong>, eu me posiciono entre 
-                <strong>Intermediário/Avançado</strong> - consigo escrever, ouvir e entender 
-                bem o Inglês, e o meu <i>speaking</i>, embora os eventuais gargalos e a 
-                demora para falar, é o suficiente para uma compreensível comunicação na 
-                linguagem.
+                <strong>Inglês</strong>, eu me considero presente no nível
+                <strong>Avançado</strong> - consigo escrever, ouvir e entender 
+                bem o Inglês, além de também poder me comunicar efetivamente com o meu <i>speaking</i>.
         </p>
         </div>
         <div class="skill-subcontainer">
