@@ -72,17 +72,17 @@
             <h3>Front-End</h3>
             <p>
                 Possuo conhecimento nas três linguagens principais do desenvolvimento de 
-                Front-End: <strong>HTML5, CSS3 e JavaScript.</strong> Além disso, já 
-                trabalhei com o <strong>Framework Svelte</strong>, especificamente o 
-                SvelteKit.
+                Front-End: <strong>HTML5, CSS3 e JavaScript.</strong> Além disso, trabalho 
+                com os Frameworks <strong>React e Svelte</strong> para o desenvolvimento de 
+                aplicativos Web.
             </p>
         </div>
         <div class="skill-subcontainer">
             <h3>Back-End</h3>
             <p>
-                Atualmente eu tenho adquirido uma considerável experiência na linguagem de 
-                programação <strong>PHP</strong>, e também tenho trabalhado voluntariamente 
-                em um <a class="sp-link" href="https://github.com/Afonso247/Laravel-Auth">
+                Tenho adquirido uma considerável experiência na linguagem de programação 
+                <strong>PHP</strong>, e também tenho trabalhado voluntariamente em um 
+                <a class="sp-link" href="https://github.com/Afonso247/Laravel-Auth">
                 projeto web</a> utilizando <strong>Laravel</strong>, o Framework do PHP, 
                 junto de ferramentas correlatas como <strong>Jetstream</strong>, <strong>
                 Blade</strong> & <strong>Livewire</strong>. Além disso, possuo conhecimento 
@@ -117,9 +117,11 @@
         <div class="skill-subcontainer">
             <h3>Outras Habilidades</h3>
             <p>
-                Possuo conhecimento em <strong>Redes de Computadores</strong>, além do versionamento 
-                da <strong>linha de comando Git</strong>. Adicionalmente, tenho experiência em 
-                <strong>Virtualbox</strong>, para casos em que uma máquina virtual seja necessária.
+                Possuo conhecimento em <strong>Redes de Computadores</strong> e noções de Design, 
+                como <strong>Experiência de Usuário e IHC</strong>(Interação Humano-Computador), 
+                além do versionamento da <strong>linha de comando Git</strong>. Adicionalmente, 
+                tenho experiência em <strong>Virtualbox</strong>, para casos em que uma máquina 
+                virtual seja necessária.
             </p>
         </div>
     </div>
