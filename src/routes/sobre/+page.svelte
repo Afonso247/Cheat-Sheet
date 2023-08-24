@@ -31,14 +31,16 @@
     <div class="text-container">
         <h2>Meu nome é Afonso Henrique</h2>
 
-        <p> Sou um desenvolvedor novato que está em busca de ingressar pro mercado 
-            de tecnologia com o intuito de trabalhar com web development e 
-            aprimorar minhas habilidades de programação.
+        <p> Sou um jovem estudante com entusiasmo e paixão por Programação, adquirindo 
+            conhecimento na área desde 2021. Atualmente estou buscando por uma oportunidade 
+            de me poder ingressar na área de tecnologia como um Desenvolvedor Web.
         </p>
-        <p> Desde 2021, a minha paixão por codar andou crescendo bastante com o passar dos 
-            tempos. A ideia de você poder criar a sua própria linha/bloco de código, compilar 
-            em um programa e então poder ver ele funcionando na fase de teste - é algo que 
-            simplesmente me fascina.
+        <p>
+            Minha jornada é guiada pela crença de que a frequente evolução e constante 
+            disciplina, comigo mesmo e com os outros, são as chaves para o sucesso. Busco 
+            regularmente expandir minha caixa de habilidades técnicas e conceituais, 
+            aprimorando minha capacidade de transformar ideias em produtos funcionais e 
+            intuitivos.
         </p>
     </div>
 
@@ -48,16 +50,23 @@
         <p> No momento em que eu estou escrevendo isso, atualmente estudo no 
             <strong>Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco</strong>, 
             cursando o Tecnólogo <strong>Sistemas para Internet</strong> no 
-            Campus Igarassu, com a previsão de término do curso para o segundo semestre de 2024.
+            Campus Igarassu, com a previsão de término do curso para o segundo semestre de 
+            2024.
         </p>
         <p>
-            A minha intenção ao entrar neste curso foi para <strong>aprofundar os meus 
-            conhecimentos de TI em um ambiente acadêmico</strong>. E no momento em que a 
-            minha jornada atualmente está, eu já adquiri uma quantia considerável de 
-            experiência: Aprendi e dominei os fundamentos da programação, montei aplicativos 
-            web básicos e funcionais usando as principais linguagens de programação, e fui 
-            <strong>monitor voluntário da disciplina Programação Imperativa</strong>, na 
-            qual ensina sobre como programar em JavaScript.
+            Dentro da faculdade, eu adquiri uma <strong>experiência acadêmica de 2 
+            anos na área</strong>, especificamente em criar WebApps atuando tanto no 
+            <strong>Front-End quanto no Back-End</strong>, 
+            além de também lidar com Banco de Dados SQL. Além disso, minha grade curricular 
+            engloba disciplinas de Redes de Computadores, juntamente de conhecimentos de 
+            Design, como Interface e Experiência de Usuário, e trabalho de habilidades 
+            interpessoais, como trabalho em equipe e resolução de problemas.
+        </p>
+        <p>
+            Adicionalmente, em 2022.1, eu fui 
+            <a class="sp-link" href="https://github.com/Afonso247/Laravel-Auth">
+            monitor voluntário da disciplina Programação Imperativa</a>, na 
+            qual ensina sobre como programar em JavaScript. 
         </p>
     </div>
 
@@ -65,22 +74,25 @@
         <h2>Habilidades</h2>
 
         <p>
-            Todo Desenvolvedor Web deve possuir um leque de habilidades à sua disposição, 
-            sendo elas autênticas, modernas e eficientes.
+            Para um Desenvolvedor Web, é fundamental dispor de um conjunto de 
+            habilidades genuínas, atualizadas e altamente eficazes.
         </p>
+        <hr>
         <div class="skill-subcontainer">
             <h3>Front-End</h3>
             <p>
                 Possuo conhecimento nas três linguagens principais do desenvolvimento de 
-                Front-End: <strong>HTML5, CSS3 e JavaScript.</strong> Além disso, trabalho 
-                com os Frameworks <strong>React e Svelte</strong> para o desenvolvimento de 
-                aplicativos Web.
+                Front-End: <strong>HTML5, CSS3 e JavaScript.</strong> Além disso, possuo 
+                conhecimento no Framework <strong>Svelte</strong>, que já foi utilizado para 
+                alguns de meus projetos, tanto acadêmicos como voluntários. Atualmente estou 
+                em um processo de aprendizado do framework <strong>React</strong> para o 
+                desenvolvimento de aplicativos Web.
             </p>
         </div>
         <div class="skill-subcontainer">
             <h3>Back-End</h3>
             <p>
-                Tenho adquirido uma considerável experiência na linguagem de programação 
+                Tenho conhecimento sobre a linguagem de programação 
                 <strong>PHP</strong>, e também tenho trabalhado voluntariamente em um 
                 <a class="sp-link" href="https://github.com/Afonso247/Laravel-Auth">
                 projeto web</a> utilizando <strong>Laravel</strong>, o Framework do PHP, 
@@ -92,16 +104,18 @@
         <div class="skill-subcontainer">
             <h3>Banco de Dados</h3>
             <p>
-                Embora seja básico, meu conhecimento com o MySQL é o suficiente para se criar 
-                um banco de dados funcional para um site.
+                Meu conhecimento com o banco de dados MySQL é fundamental para se criar um 
+                banco de dados funcional para um site.
             </p>
         </div>
+        <hr>
         <div class="skill-subcontainer">
             <h3>Sistemas Operacionais</h3>
             <p>
-                Tenho experiência com o SO Windows, mas a minha atual preferência é o Linux, 
-                por atender melhor as minhas necessidades como um usuário e programador. No 
-                momento, eu utilizo a versão mais recente do Ubuntu(22.04).
+                Já tive experiência com o SO Windows alguns anos atrás, mas a minha atual 
+                preferência é o Linux, por atender melhor as minhas necessidades como um 
+                usuário e programador. No momento, eu utilizo a versão mais recente do 
+                Ubuntu(22.04).
             </p>
         </div>
         <div class="skill-subcontainer">
@@ -111,9 +125,26 @@
                 linguagem, que é o <strong>Português-Brasileiro</strong>. Já em 
                 <strong>Inglês</strong>, eu me considero presente no nível
                 <strong>Avançado</strong> - consigo escrever, ouvir e entender 
-                bem o Inglês, além de também poder me comunicar efetivamente com o meu <i>speaking</i>.
+                bem o Inglês, além de também poder me comunicar efetivamente com o meu 
+                <i>speaking</i>.
         </p>
         </div>
+        <div class="skill-subcontainer">
+            <h3>Soft Skills</h3>
+            <p>
+                Busco constantemente a minha própria evolução, tanto técnica quanto 
+                interpessoal, mantendo a <strong>competência, disciplina e 
+                determinação</strong> como pilares fundamentais, encarando os desafios a 
+                serem enfrentados como oportunidades para o meu autodesenvolvimento.
+            </p>
+            <p>
+                Como um desenvolvedor, entendo como tais habilidades conceituais são 
+                importantes, tanto para os colaboradores quanto para o projeto em geral. 
+                Com isso, desejo criar e conquistar tais habilidades, que serão essenciais 
+                para o meu leque de habilidades como Web Developer.
+            </p>
+        </div>
+        <hr>
         <div class="skill-subcontainer">
             <h3>Outras Habilidades</h3>
             <p>
@@ -145,6 +176,10 @@
     }
     .sp-link {
         margin: 0;
+    }
+    hr {
+	border-top: 1px dashed #decff1;
+	border-bottom: 1px dashed #fff;
     }
     a {
         margin-left: 1rem;
