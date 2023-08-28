@@ -61,7 +61,7 @@
             objetivo deste projeto foi mais voltado para experimentar algumas das 
             funcionalidades do próprio framework.
         </small>
-        <p><strong>Tecnologias usadas:</strong> Laravel c/ Jetstream, Blade & Livewire, MySQL</p>
+        <p><strong>Tecnologias usadas:</strong> Svelte, HTML5, CSS3, JavaScript</p>
     </div>
     <div class="proj-container">
         <h3>Projeto 04 - 
